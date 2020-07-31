@@ -1,0 +1,13 @@
+{
+  "main.css": "/lightsout-app/static/css/main.2c894ff1.chunk.css",
+  "main.js": "/lightsout-app/static/js/main.6f67e909.chunk.js",
+  "main.js.map": "/lightsout-app/static/js/main.6f67e909.chunk.js.map",
+  "static/js/1.45ea5340.chunk.js": "/lightsout-app/static/js/1.45ea5340.chunk.js",
+  "static/js/1.45ea5340.chunk.js.map": "/lightsout-app/static/js/1.45ea5340.chunk.js.map",
+  "runtime~main.js": "/lightsout-app/static/js/runtime~main.c0a5a934.js",
+  "runtime~main.js.map": "/lightsout-app/static/js/runtime~main.c0a5a934.js.map",
+  "static/css/main.2c894ff1.chunk.css.map": "/lightsout-app/static/css/main.2c894ff1.chunk.css.map",
+  "index.html": "/lightsout-app/index.html",
+  "precache-manifest.94bcb606e6770d7a79091444cf51dccd.js": "/lightsout-app/precache-manifest.94bcb606e6770d7a79091444cf51dccd.js",
+  "service-worker.js": "/lightsout-app/service-worker.js"
+}
